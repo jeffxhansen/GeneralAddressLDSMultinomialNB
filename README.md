@@ -10,4 +10,4 @@ After preprocessing a corpus of every general address given in the LDS Church, I
 I then trained a Multinomial Naive-Bayes model (using sklearn) on this vectorization to accomplish the author identification task.
 I proposed that tokenizing scripture references and quotation references would boost accuracy.
 My process and findings are written in the four-page scholarly article in this github repo.
-In the end my model performed at a 82% accuracy, and I also demonstrated that including tokenized scripture references and quotation references boosted accuracy and performace.
+In the end my model performed at a 82% accuracy, and I also demonstrated that including tokenized scripture references and quotation references boosted accuracy and performance.
