@@ -1,7 +1,7 @@
 # GeneralAddressLDSMultinomialNB
 
 This was a project for my LING 581 (Natural Language Processing) class at BYU my junior year.
-In this class, we surveyed many different Machine Learning models and analyzed their application and success on various machine learning tasks.
+In this class, we surveyed many different Machine Learning models and analyzed their application and success on various Natural Language Processing (NLP) tasks.
 We read weekly scholarly articles and the most recent and substantial developments in many different NLP tasks.
 We each took on a semester long research/programming project to solve some novel NLP task.
 
